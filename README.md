@@ -6,6 +6,11 @@ sudo apt-get update
 sudo apt-get install zsh
 ```
 
+## Set zsh as default shell
+```zsh
+chsh -s $(which zsh)
+```
+
 ## Install vim
 ```zsh
 sudo apt-get install vim
