@@ -1,4 +1,4 @@
-This is my standard setup for Debian/Ubuntu 14.04 which includes YADR.
+This is my standard setup for Ubuntu 14.04 which includes YADR.
 
 ## Install zsh
 ```zsh
