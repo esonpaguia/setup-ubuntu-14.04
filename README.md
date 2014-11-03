@@ -64,4 +64,6 @@ else
 endif
 ```
 
+![screenshot](https://raw.githubusercontent.com/etpaguia/setup-ubuntu-14.04/master/images/settings-vim.png)
+
 Reference: https://github.com/altercation/vim-colors-solarized
