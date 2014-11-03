@@ -26,7 +26,7 @@ git config --list
 ```
 
 ## Install vim-*
-To make neocomplete work, you must have any of these packages:
+To make neocomplete work in vim, you must have/install any of these packages:
   * vim-nox
   * vim-gtk
   * vim-gnome
@@ -63,7 +63,5 @@ else
    set background=dark 
 endif
 ```
-
-
 
 Reference: https://github.com/altercation/vim-colors-solarized
